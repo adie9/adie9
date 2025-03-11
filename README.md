@@ -1,7 +1,13 @@
 ## Hi, I'm Adrian Guerra, an aspiring IT/Cybersecurity professional.
 
+## Currently Pursuing...
+* CCNA
+
+## Plan on Pursuing...
+* SAL1
+
 ## Completed Certifications
-* CompTIA Security+
+* [CompTIA Security+](https://www.credly.com/badges/e65372e2-2aa5-4b3b-b9ca-bc41dab14f59/public_url)
 
 ## Projects
 
