@@ -1,5 +1,10 @@
 ## Hi, I'm Adrian Guerra, an aspiring IT/Cybersecurity professional.
 
+## Completed Certifications
+* CompTIA Security+
+
+## Projects
+
 <!--
 **adie9/adie9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
