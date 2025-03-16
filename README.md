@@ -15,6 +15,9 @@ Refining my web development skills through projects at [FrontendMentor.io](https
 * [News Homepage](https://news-homepage-six-kappa.vercel.app/)
 * [Social Proof Section](https://social-proof-section-five-pi.vercel.app/)
 * [Advice Generator](https://advice-generator-app-eta-five.vercel.app/)
+
+### -Python-
+* [Password Strength Checker](https://github.com/adie9/Password-Strength-Checker)
 <!--
 **adie9/adie9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
