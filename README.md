@@ -10,6 +10,7 @@
 * [CompTIA Security+](https://www.credly.com/badges/e65372e2-2aa5-4b3b-b9ca-bc41dab14f59/public_url)
 
 ## Projects
+
 ### -Web Development-
 Refining my web development skills through projects at [FrontendMentor.io](https://www.frontendmentor.io/):
 * [News Homepage](https://news-homepage-six-kappa.vercel.app/)
@@ -18,6 +19,9 @@ Refining my web development skills through projects at [FrontendMentor.io](https
 
 ### -Python-
 * [Password Strength Checker](https://github.com/adie9/Password-Strength-Checker)
+
+### -IT-
+* [Freshdesk Ticketing](https://github.com/adie9/Freshdesk-Ticketing)
 <!--
 **adie9/adie9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
