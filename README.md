@@ -4,7 +4,7 @@
 * CCNA
 
 ## Plan on Pursuing...
-* SAL1
+* BSCP
 
 ## Completed Certifications
 * [CompTIA Security+](https://www.credly.com/badges/e65372e2-2aa5-4b3b-b9ca-bc41dab14f59/public_url)
