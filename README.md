@@ -18,6 +18,7 @@ Refining my web development skills through projects at [FrontendMentor.io](https
 * [Advice Generator](https://advice-generator-app-eta-five.vercel.app/)
 
 ### -Python-
+* [Password Manager](https://github.com/adie9/Password-Manager)
 * [Password Strength Checker](https://github.com/adie9/Password-Strength-Checker)
 
 ### -IT-
