@@ -2,7 +2,7 @@
 
 ## Currently Pursuing...
 * CCNA
-* ITIL 4 Foundation
+* SAL1
 
 ## Plan on Pursuing...
 * BSCP
