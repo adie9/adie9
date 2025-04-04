@@ -2,7 +2,8 @@
 
 ## Currently Pursuing...
 * CCNA
-* SAL1
+* A+
+
 
 ## Plan on Pursuing...
 * BSCP
