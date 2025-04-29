@@ -1,15 +1,14 @@
 # Hi, I'm Adrian Guerra, an aspiring IT/Cybersecurity professional.
 
 ## Currently Pursuing...
-* CCNA
 * A+
-
 
 ## Plan on Pursuing...
 * BSCP
 
 ## Completed Certifications
 * [CompTIA Security+](https://www.credly.com/badges/e65372e2-2aa5-4b3b-b9ca-bc41dab14f59/public_url)
+* [Cisco Certified Network Associate](https://www.credly.com/earner/earned/badge/b9ca21b8-0f99-4e11-97c9-2522addd43a5)
 
 ## Projects
 
