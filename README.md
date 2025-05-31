@@ -1,7 +1,7 @@
 # Hi, I'm Adrian Guerra, an aspiring IT/Cybersecurity professional.
 
 ## Currently Pursuing...
-* AWS Cloud Practitioner
+* Azure Fundamentals (AZ-900)
 
 ## Plan on Pursuing...
 * BSCP
