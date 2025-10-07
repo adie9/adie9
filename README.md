@@ -10,8 +10,8 @@
 
 ## 🎯 What I'm Focusing On
 
-- **Frontend Development: HTML, CSS, JavaScript, React, responsive design
-- **Networking: Cisco Networking Fundamentals (Routing, Switching, VLANS, etc.)
+- **Frontend Development**: HTML, CSS, JavaScript, React, responsive design
+- **Networking**: Cisco Networking Fundamentals (Routing, Switching, VLANS, etc.)
 
 ---
 
