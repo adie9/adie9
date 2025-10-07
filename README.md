@@ -4,8 +4,7 @@
 
 📍 Miami, FL  
 🎓 B.S. Computer Science, Florida International University  
-🎨 [Portfolio](https://adie9.github.io/)
-🔗 [LinkedIn](https://www.linkedin.com/in/adrian-guerra-a210a4196) | [Frontend Mentor Profile](https://www.frontendmentor.io/profile/adie9)
+🎨 [Portfolio](https://adie9.github.io/) | 🔗 [LinkedIn](https://www.linkedin.com/in/adrian-guerra-a210a4196) | 🧑‍💻 [Frontend Mentor Profile](https://www.frontendmentor.io/profile/adie9)
 
 ---
 
