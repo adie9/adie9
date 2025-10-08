@@ -25,10 +25,10 @@
 
 ### Web Development
 Refining my web development skills through projects at [FrontendMentor.io](https://www.frontendmentor.io/):
+* [Agency Landing Page](https://agency-landing-page-gamma-eight.vercel.app/)
 * [Browser Extensions Manager UI](https://browser-extensions-manager-ui-main-gules.vercel.app/)
 * [News Homepage](https://news-homepage-six-kappa.vercel.app/)
 * [Social Proof Section](https://social-proof-section-five-pi.vercel.app/)
-* [Advice Generator](https://advice-generator-app-eta-five.vercel.app/)
 
 ### Python
 * [Password Manager](https://github.com/adie9/Password-Manager)
