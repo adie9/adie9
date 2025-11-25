@@ -1,7 +1,5 @@
 # Hi 👋, I'm Adrian Guerra
 
-**Aspiring Frontend Developer**
-
 📍 Miami, FL  
 🎓 B.S. Computer Science, Florida International University  
 🎨 [Portfolio](https://adie9.github.io/) | 🔗 [LinkedIn](https://www.linkedin.com/in/adrian-guerra-a210a4196) | 🧑‍💻 [Frontend Mentor Profile](https://www.frontendmentor.io/profile/adie9)
@@ -41,8 +39,8 @@ Refining my web development skills through projects at [FrontendMentor.io](https
 
 ## What I'm Looking For
 
-Open to internships, entry level roles, or freelance opportunities in frontend development.
-I’m especially interested in roles where I can grow as a developer and help build accessible, engaging web experiences.
+Open to internships, entry level roles, or freelance opportunities.
+I’m especially interested in roles where I can grow on the job.
 
 
 <!--
