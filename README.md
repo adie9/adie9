@@ -34,6 +34,7 @@ Refining my web development skills through projects at [FrontendMentor.io](https
 
 ### IT
 * [Freshdesk Ticketing](https://github.com/adie9/Freshdesk-Ticketing)
+* [Small Office Networking Lab](https://github.com/adie9/Small-Office-Networking-Lab)
 
 ---
 
