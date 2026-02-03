@@ -29,6 +29,7 @@ Refining my web development skills through projects at [FrontendMentor.io](https
 * [Social Proof Section](https://social-proof-section-five-pi.vercel.app/)
 
 ### Python
+* [Log Analyzer](https://github.com/adie9/Log-Analyzer)
 * [Password Manager](https://github.com/adie9/Password-Manager)
 * [Password Strength Checker](https://github.com/adie9/Password-Strength-Checker)
 
