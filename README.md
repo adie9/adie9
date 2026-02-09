@@ -2,14 +2,15 @@
 
 📍 Miami, FL  
 🎓 B.S. Computer Science, Florida International University  
-🎨 [Portfolio](https://adie9.github.io/) | 🔗 [LinkedIn](https://www.linkedin.com/in/adrian-guerra-a210a4196) | 🧑‍💻 [Frontend Mentor Profile](https://www.frontendmentor.io/profile/adie9)
+🔗 [LinkedIn](https://www.linkedin.com/in/adrian-guerra-a210a4196) | 🧑‍💻 [Frontend Mentor Profile](https://www.frontendmentor.io/profile/adie9)
 
 ---
 
 ## 🎯 What I'm Focusing On
 
-- **Frontend Development**: HTML, CSS, JavaScript, React, responsive design
+- **Python**: Fundamentals, scripting, & automation
 - **Networking**: Cisco Networking Fundamentals (Routing, Switching, VLANS, etc.)
+- **Frontend Development**: HTML, CSS, JavaScript, React, responsive design
 
 ---
 
