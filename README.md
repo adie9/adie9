@@ -31,9 +31,7 @@ Refining my web development skills through projects at [FrontendMentor.io](https
 
 ### Python
 * [Network Inventory Automation Tool](https://github.com/adie9/Network-Inventory-Automation-Tool)
-* [Log Analyzer](https://github.com/adie9/Log-Analyzer)
-* [Password Manager](https://github.com/adie9/Password-Manager)
-* [Password Strength Checker](https://github.com/adie9/Password-Strength-Checker)
+* [CSV Cleaner & Validator]([https://github.com/adie9/Log-Analyzer](https://github.com/adie9/CSV-Cleaner-Validator))
 
 ### IT
 * [Freshdesk Ticketing](https://github.com/adie9/Freshdesk-Ticketing)
