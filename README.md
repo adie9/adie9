@@ -22,13 +22,6 @@
 
 ## Projects
 
-### Web Development
-Refining my web development skills through projects at [FrontendMentor.io](https://www.frontendmentor.io/):
-* [Agency Landing Page](https://agency-landing-page-gamma-eight.vercel.app/)
-* [Browser Extensions Manager UI](https://browser-extensions-manager-ui-main-gules.vercel.app/)
-* [News Homepage](https://news-homepage-six-kappa.vercel.app/)
-* [Social Proof Section](https://social-proof-section-five-pi.vercel.app/)
-
 ### Python
 * [Network Inventory Automation Tool](https://github.com/adie9/Network-Inventory-Automation-Tool)
 * [CSV Cleaner & Validator](https://github.com/adie9/CSV-Cleaner-Validator)
@@ -36,6 +29,13 @@ Refining my web development skills through projects at [FrontendMentor.io](https
 ### IT
 * [Freshdesk Ticketing](https://github.com/adie9/Freshdesk-Ticketing)
 * [Small Office Networking Lab](https://github.com/adie9/Small-Office-Networking-Lab)
+
+### Web Development
+Refining my web development skills through projects at [FrontendMentor.io](https://www.frontendmentor.io/):
+* [Agency Landing Page](https://agency-landing-page-gamma-eight.vercel.app/)
+* [Browser Extensions Manager UI](https://browser-extensions-manager-ui-main-gules.vercel.app/)
+* [News Homepage](https://news-homepage-six-kappa.vercel.app/)
+* [Social Proof Section](https://social-proof-section-five-pi.vercel.app/)
 
 ---
 
