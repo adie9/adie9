@@ -31,7 +31,7 @@ Refining my web development skills through projects at [FrontendMentor.io](https
 
 ### Python
 * [Network Inventory Automation Tool](https://github.com/adie9/Network-Inventory-Automation-Tool)
-* [CSV Cleaner & Validator]([https://github.com/adie9/Log-Analyzer](https://github.com/adie9/CSV-Cleaner-Validator))
+* [CSV Cleaner & Validator](https://github.com/adie9/CSV-Cleaner-Validator)
 
 ### IT
 * [Freshdesk Ticketing](https://github.com/adie9/Freshdesk-Ticketing)
