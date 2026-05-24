@@ -1,48 +1,88 @@
 # Hi 👋, I'm Adrian Guerra
 
 📍 Miami, FL  
-🎓 B.S. Computer Science, Florida International University  
-🔗 [LinkedIn](https://www.linkedin.com/in/adrian-guerra-a210a4196) | 🧑‍💻 [Frontend Mentor Profile](https://www.frontendmentor.io/profile/adie9)
+🎓 B.S. Computer Science — Florida International University  
+🔗 [LinkedIn](https://www.linkedin.com/in/adrian-guerra-a210a4196)
+
+---
+
+## 🚀 About Me
+
+I'm an IT Operations & Networking professional with hands‑on experience in:
+
+- Windows Server & Active Directory  
+- Network configuration & troubleshooting (CCNA‑level)  
+- Python scripting for automation  
+- Ticketing systems & IT support workflows  
+- Building structured, reliable lab environments  
+
+I enjoy solving technical problems, improving reliability, and learning tools that make IT operations more efficient.
 
 ---
 
 ## 🎯 What I'm Focusing On
 
-- **Python**: Fundamentals, scripting, & automation
-- **Networking**: Cisco Networking Fundamentals (Routing, Switching, VLANS, etc.)
-- **Frontend Development**: HTML, CSS, JavaScript, React, responsive design
+- **Networking:** Routing, switching, VLANs, DHCP, DNS, subnetting  
+- **Systems Administration:** AD DS, Group Policy, Windows Server management  
+- **Automation:** Python scripting for IT workflows  
+- **IT Operations:** Monitoring, documentation, incident handling  
 
 ---
 
-## Completed Certifications
-* [CompTIA Security+](https://www.credly.com/badges/e65372e2-2aa5-4b3b-b9ca-bc41dab14f59/public_url)
-* [Cisco Certified Network Associate](https://www.credly.com/badges/b9ca21b8-0f99-4e11-97c9-2522addd43a5/public_url)
+## 🏅 Certifications
+
+- [CompTIA Security+](https://www.credly.com/badges/e65372e2-2aa5-4b3b-b9ca-bc41dab14f59/public_url)  
+- [Cisco Certified Network Associate (CCNA)](https://www.credly.com/badges/b9ca21b8-0f99-4e11-97c9-2522addd43a5/public_url)
 
 ---
 
-## Projects
+## 🧪 IT & Networking Projects
 
-### Python
-* [Network Inventory Automation Tool](https://github.com/adie9/Network-Inventory-Automation-Tool)
-* [CSV Cleaner & Validator](https://github.com/adie9/CSV-Cleaner-Validator)
+### 🔹 Active Directory & Windows Server
+- [Active Directory Home Lab](https://github.com/adie9/Active-Directory-Homelab)  
+  Domain setup, OU structure, RBAC, password/lockout policies, domain join  
 
-### IT
-* [Freshdesk Ticketing](https://github.com/adie9/Freshdesk-Ticketing)
-* [Small Office Networking Lab](https://github.com/adie9/Small-Office-Networking-Lab)
+### 🔹 Networking
+- [Small Office Networking Lab](https://github.com/adie9/Small-Office-Networking-Lab)  
+  VLANs, inter‑VLAN routing, DHCP, switch/router configuration
 
-### Web Development
-Refining my web development skills through projects at [FrontendMentor.io](https://www.frontendmentor.io/):
-* [Agency Landing Page](https://agency-landing-page-gamma-eight.vercel.app/)
-* [Browser Extensions Manager UI](https://browser-extensions-manager-ui-main-gules.vercel.app/)
-* [News Homepage](https://news-homepage-six-kappa.vercel.app/)
-* [Social Proof Section](https://social-proof-section-five-pi.vercel.app/)
+### 🔹 IT Operations
+- [Freshdesk Ticketing Simulation](https://github.com/adie9/Freshdesk-Ticketing)  
+  Ticket lifecycle, escalation, documentation, and workflow simulation
+
+### 🔹 Python Automation
+- [Network Inventory Automation Tool](https://github.com/adie9/Network-Inventory-Automation-Tool)  
+- [CSV Cleaner & Validator](https://github.com/adie9/CSV-Cleaner-Validator)
 
 ---
 
-## What I'm Looking For
+## 🌐 Web Development
 
-Open to internships, entry level roles, or freelance opportunities.
-I’m especially interested in roles where I can grow on the job.
+I maintain a small portfolio of frontend projects to stay sharp with UI/UX fundamentals:
+
+- [Agency Landing Page](https://agency-landing-page-gamma-eight.vercel.app/)  
+- [Browser Extensions Manager UI](https://browser-extensions-manager-ui-main-gules.vercel.app/)  
+- [News Homepage](https://news-homepage-six-kappa.vercel.app/)  
+- [Social Proof Section](https://social-proof-section-five-pi.vercel.app/)
+
+---
+
+## 🔍 What I'm Looking For
+
+I'm open to:
+
+- IT Support / Help Desk  
+- Network Technician / NOC  
+- Systems Administrator (Junior)  
+- IT Operations roles  
+- Internships or entry‑level opportunities  
+
+I’m especially interested in roles where I can grow, learn, and contribute to reliable IT infrastructure.
+
+---
+
+Thanks for stopping by!
+
 
 
 <!--
