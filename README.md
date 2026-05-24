@@ -75,7 +75,7 @@ I'm open to:
 - Network Technician / NOC  
 - Systems Administrator (Junior)  
 - IT Operations roles  
-- Internships or entry‑level opportunities  
+- Entry‑level opportunities  
 
 I’m especially interested in roles where I can grow, learn, and contribute to reliable IT infrastructure.
 
