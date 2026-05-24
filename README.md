@@ -2,7 +2,7 @@
 
 📍 Miami, FL  
 🎓 B.S. Computer Science — Florida International University  
-🔗 [LinkedIn](https://www.linkedin.com/in/adrian-guerra-a210a4196)
+🔗 [LinkedIn](https://www.linkedin.com/in/adie9)
 
 ---
 
