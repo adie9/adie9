@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm an IT Operations & Networking professional with hands‑on experience in:
+I'm an IT Operations & Networking professional with familiarity in:
 
 - Windows Server & Active Directory  
 - Network configuration & troubleshooting (CCNA‑level)  
