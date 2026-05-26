@@ -45,7 +45,7 @@ I enjoy solving technical problems, improving reliability, and learning tools th
 ### 🔹 Networking
 - [Small Office Networking Lab](https://github.com/adie9/Small-Office-Networking-Lab)  
   VLANs, inter‑VLAN routing, DHCP, switch/router configuration
-- [DNS Traffic Analysis](https://github.com/adie9/DNS-Traffic-Analysis)
+- [DNS Traffic Analysis](https://github.com/adie9/DNS-Traffic-Analysis) <br>
   DNS lookup flow and packet‑level analysis using Wireshark
 
 ### 🔹 IT Operations
