@@ -53,6 +53,7 @@ I enjoy solving technical problems, improving reliability, and learning tools th
   Ticket lifecycle, escalation, documentation, and workflow simulation
 
 ### 🔹 Python Automation
+- [Network Host Availability Scanner](https://github.com/adie9/Network-Host-Availability-Scanner)
 - [Network Inventory Automation Tool](https://github.com/adie9/Network-Inventory-Automation-Tool)  
 - [CSV Cleaner & Validator](https://github.com/adie9/CSV-Cleaner-Validator)
 
