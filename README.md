@@ -11,7 +11,7 @@
 I'm an IT Operations & Networking professional with familiarity in:
 
 - Windows Server & Active Directory  
-- Network configuration & troubleshooting (CCNA‑level)  
+- Networking (CCNA‑level)  
 - Python scripting for automation  
 - Ticketing systems & IT support workflows  
 - Building structured, reliable lab environments  
